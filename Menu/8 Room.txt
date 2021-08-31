@@ -1,0 +1,8 @@
+#Room
+*AC Room  
+Single Room             600/-
+Double Room           800/-
+*Non-AC Room
+Single Room             400/-
+Double Room             500/-
+ 
